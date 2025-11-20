@@ -1,0 +1,15 @@
+{
+  "name": "vercel-image-api",
+  "version": "1.0.0",
+  "description": "API to add text to image template",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "canvas": "^2.11.2"
+  },
+  "engines": {
+    "node": ">=18.x"
+  }
+}
